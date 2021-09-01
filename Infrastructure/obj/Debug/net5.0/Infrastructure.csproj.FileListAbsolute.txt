@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\bin\Debug\net5.0\ApplicationCore.dll
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\bin\Debug\net5.0\ApplicationCore.pdb
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+C:\Users\andre\source\repos\JulyBatch\ClientInfoSystem\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
